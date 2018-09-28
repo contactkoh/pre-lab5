@@ -6,7 +6,7 @@
 
 Paper Box prototype
 
-![alt text](https://github.com/contactkoh/pre-lab5/edit/master/box.jpg)
+![alt text](https://github.com/contactkoh/pre-lab5/blob/master/box.jpg)
 
 Reference: https://www.instructables.com/id/Useless-Machine-1/
 
@@ -22,6 +22,6 @@ Arduino can be on the inner bottom side of the box so that wiring can be inserte
 
 Paper Box prototype
 
-![alt text](https://github.com/contactkoh/pre-lab5/edit/master/box.jpg)
+![alt text](https://github.com/contactkoh/pre-lab5/blob/master/box.jpg)
 
 
