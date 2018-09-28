@@ -5,7 +5,6 @@
 1 Take a look at this useless box example and try to create one out of paper in less than 30 minutes.
 
 Paper Box prototype
-![alt text](https://github.com/contactkoh/lab-prep1/blob/master/1.jpg)
 
 ![alt text](https://github.com/contactkoh/pre-lab5/edit/master/box.jpg)
 
@@ -19,9 +18,10 @@ Arduino can be on the inner bottom side of the box so that wiring can be inserte
 
 3 Submit a picture of your paper prototype! Bonus points if you submit a timelapse of the process.
 
+[Timelapse Paper Box prototype making video](https://youtu.be/uSK7jWY0maU)
+
 Paper Box prototype
 
 ![alt text](https://github.com/contactkoh/pre-lab5/edit/master/box.jpg)
 
-[Timelapse Paper Box prototype making video](https://youtu.be/uSK7jWY0maU)
 
