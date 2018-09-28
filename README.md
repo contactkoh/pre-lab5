@@ -18,7 +18,9 @@ Arduino can be on the inner bottom side of the box so that wiring can be inserte
 
 3 Submit a picture of your paper prototype! Bonus points if you submit a timelapse of the process.
 
+
 [Timelapse Paper Box prototype making video](https://youtu.be/uSK7jWY0maU)
+
 
 Paper Box prototype
 
