@@ -5,6 +5,7 @@
 1 Take a look at this useless box example and try to create one out of paper in less than 30 minutes.
 
 Paper Box prototype
+![alt text](https://github.com/contactkoh/lab-prep1/blob/master/1.jpg)
 
 ![alt text](https://github.com/contactkoh/pre-lab5/edit/master/box.jpg)
 
